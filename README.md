@@ -47,5 +47,3 @@ Berikut adalah penjelasan alur kerja bagaimana data dikirim dari formulir input 
         ```dart
         Text("Halo, Nama Saya $nama, NIM Saya $nim, Saya Lahir Tahun $tahunLahir"),
         ```
-
-Dengan alur ini, data yang diinput pada satu halaman dapat dengan mudah diteruskan dan ditampilkan pada halaman lain.
